@@ -1,0 +1,189 @@
+.digital_ticket { width: 800px; margin: 0 auto;}
+.digital_ticket header {overflow: hidden;padding-bottom: 15px;}
+body {font-family: "helvetica neue",helvetica; font-size: 14px !important;line-height: 145% !important;}
+a {color: #398bce;text-decoration: none;}
+h1, h2, h3, h4, h5 {line-height: 145%;}
+.digital_ticket .tickets .ticket .content .actions a, .digital_ticket .tickets .ticket .content .actions input[type="submit"] {
+    background-position: 10px center;
+    background-repeat: no-repeat;
+    border-radius: 4px;
+    color: #b3b3b3;
+    display: inline;
+    float: left;
+    font-size: 18px;
+    line-height: 22px;
+    padding: 10px 10px 10px 46px;
+}
+.digital_ticket .tickets .ticket .content .actions input[type="submit"] {background-color: #fff;border: 0 none;}
+button, html input[type="button"], input[type="reset"], input[type="submit"] {cursor: pointer;}
+button, input { line-height: normal;}
+button, input, select, textarea {font-family: inherit;font-size: 100%;margin: 0;}
+.digital_ticket .tickets .ticket .content .actions {line-height: 30px;}
+.digital_ticket .tickets {list-style: none outside none;}
+#content #main {color: #666;}
+body {font-family: "helvetica neue",helvetica;font-size: 14px;line-height: 140%;}
+html {font-family: sans-serif;}
+/* backup dec 14, 2014 body {background-color: #b4b4b4;color: #000;font-family: Arial;font-size: 12px;margin: 0;padding: 0;text-align: center;}*/
+body {color: #000;font-family: Arial;font-size: 12px;margin: 0;padding: 0;}
+body {color: #1f1f1f;font: 10pt Arial,Helvetica,sans-serif;margin: 0;padding: 0;}
+.digital_ticket .errorMessage {color: red;font-size: 1.1em;padding-bottom: 5px;}
+.digital_ticket div.error input, .digital_ticket div.error textarea, .digital_ticket div.error select, .digital_ticket input.error, .digital_ticket textarea.error, .digital_ticket select.error {/*border: 1px solid #c00 !important;*/}
+.digital_ticket header .icon {background-image: url("../images/ticket/support.png");background-position: 50% 50%;background-repeat: no-repeat;height: 55px;overflow: hidden;text-align: left;text-indent: -119988px;width: 55px;float: left;margin-right: 10px;}
+.digital_ticket header h1{color: #000;display: inline;float: left;font-size: 34px;font-weight: 500;letter-spacing: -1px;line-height: 55px;margin: 0;}
+.digital_ticket .button-group {float: right;}
+.digital_ticket .button-group .button {float: left;}
+.digital_ticket header .button {background: none repeat scroll 0 0 #398bce;border-radius: 3px;color: #fff;display: inline;float: right;font-size: 18px;font-weight: 400;padding: 10px 20px;text-decoration: none;}
+/*for form submit */
+.collapse {height: 0;/*overflow: hidden;*/position: relative;transition: height 0.35s ease 0s;}
+.collapse.in {height: auto;}
+.collapse form, .collapse .content-area, .styled-form form, .styled-form .content-area{background-color: #f5f5f5;border-radius: 4px;color: #666;padding: 20px 0;}
+.collapse fieldset {border: 0 none;margin: 0 auto;padding: 0;width: 700px;}
+fieldset {border: 1px solid #c0c0c0;margin: 0 2px;padding: 0.35em 0.625em 0.75em;}
+.digital_ticket #new_ticket #ticket_topic_field {display: inline;float: left;position: relative;}
+.digital_ticket #new_ticket #ticket_topic_field .ticket_topic {margin-right: 10px;width: 305px;}
+.collapse form input[type="text"], .collapse form textarea, .collapse .content-area input[type="text"], .collapse .content-area textarea {background-color: #fff;color: #666;display: block;margin: 0 auto 10px;width: 660px;}
+.collapse form input[type="text"], .collapse form input, .collapse form textarea, .collapse .content-area input[type="text"], .collapse .content-area input, .collapse .content-area textarea{
+    border: 0 none;
+    border-radius: 5px;
+    font-size: 16px;
+    padding: 20px;
+}
+form input.invalid {border-color: #e9322d;box-shadow: 0 0 6px #f8b9b7;}
+.styled-select {/*background: #fff;*/border-radius: 4px;color: #666;display: inline;float: left;}
+.digital_ticket #new_ticket select {width: 345px;background: #fff;}
+.styled-select select {
+    background: none repeat scroll 0 0 transparent;
+    border: 0 none;
+    color: #666;
+    display: inline;
+    float: left;
+    padding: 21px;
+    width: 95%;
+}
+button, select {text-transform: none;}
+button, input, select, textarea {font-family: inherit;font-size: 100%;margin: 0;}
+.digital_ticket #new_ticket textarea {margin: 0 0 10px;max-width: 660px;width: 660px;}
+.collapse form textarea, .collapse .content-area textarea {
+    height: 140px;
+}
+.collapse form input[type="submit"][disabled="disabled"], .collapse form input[type="submit"][disabled="disabled"]:hover, .collapse form a.btn.submit[disabled="disabled"], .collapse form a.btn.submit[disabled="disabled"]:hover, .collapse .content-area input[type="submit"][disabled="disabled"], .collapse .content-area input[type="submit"][disabled="disabled"]:hover, .collapse .content-area a.btn.submit[disabled="disabled"], .collapse .content-area a.btn.submit[disabled="disabled"]:hover, .styled-form form input[type="submit"][disabled="disabled"] {
+    background-color: #a6a6a6;
+}
+.collapse form input[type="submit"]:hover, .collapse form a.btn.submit:hover, .collapse .content-area input[type="submit"]:hover, .collapse .content-area a.btn.submit:hover{
+    background-color: #5eb348;
+}
+.collapse form input[type="submit"], .collapse form a.btn.submit, .collapse .content-area input[type="submit"], .collapse .content-area a.btn.submit, .styled-form form input[type="submit"], .styled-form form a.btn.submit, .styled-form .content-area input[type="submit"], .styled-form .content-area a.btn.submit{
+    background-color: #7dc36b;
+    color: #fff;
+    display: block;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 16px;
+    margin: 0 auto;
+    text-transform: uppercase;
+    width: 700px;
+}
+.alert_box{background-color: #7dc36b;color: #fff;display: block;font-size: 16px;font-weight: 300;line-height: 16px;margin: 0 auto;text-transform: uppercase;width: 700px;}
+.collapse form input[type="text"], .collapse form input, .collapse form textarea, .collapse .content-area input[type="text"], .collapse .content-area input, .collapse .content-area textarea {border: 0 none;border-radius: 5px;font-size: 16px;padding: 20px;}
+/*for form*/
+/*for h2 open ticket*/
+h2.section-header.open_tickets {background-image: url("../images/ticket/open_tickets.png");}
+h2.section-header.closed_tickets {background-image: url("../images/ticket/closed_tickets.png");}
+h2.section-header {background-repeat: no-repeat;line-height: 40px;margin: 20px 0;padding-left: 58px;}
+h2.section-header, h3.section-divider {font-weight: 500;}
+/*for h2 open ticket*/
+/*for ul ticket*/
+.digital_ticket .tickets {list-style: none outside none;margin: 0;padding: 0;}
+.digital_ticket .tickets .ticket {border-bottom: 1px solid #f5f5f5;margin: 0 0 25px;}
+.digital_ticket .tickets .ticket .content:before, .digital_ticket .tickets .ticket .content:after {content: "";display: table;line-height: 0;}
+.digital_ticket .tickets .ticket .content:after {clear: both;}
+.digital_ticket .tickets .ticket .content:before, .digital_ticket .tickets .ticket .content:after {content: "";display: table;line-height: 0;}
+.digital_ticket .tickets .ticket .content {padding: 0 20px;}
+/*for h4 title */
+.digital_ticket .tickets .ticket .content .title {color: #398bce;display: inline;float: left;/*font-weight: 400;*/margin: 0;width: 540px;}
+/*for a title */
+.digital_ticket .tickets .ticket .content .title a {color: #398bce;}
+.digital_ticket .tickets .ticket .content .title {color: #398bce;/*font-weight: 400;*/}
+/*for actions title */
+.digital_ticket .tickets .ticket .content .actions {display: inline;float: right;line-height: 30px;}
+.digital_ticket .tickets .ticket .content .actions a.reply, .digital_ticket .tickets .ticket .content .actions input.reply[type="submit"] {
+    background-image: url("../images/ticket/reply.png");
+}
+.digital_ticket .tickets .ticket .content .actions a.reply:hover, .digital_ticket .tickets .ticket .content .actions input.reply[type="submit"]:hover {
+    background-image: url("../images/ticket/reply-active.png");
+}
+.digital_ticket .tickets .ticket .content .actions a, .digital_ticket .tickets .ticket .content .actions input[type="submit"] {
+    background-position: 10px center;
+    background-repeat: no-repeat;
+    border-radius: 4px;
+    color: #b3b3b3;
+    display: inline;
+    float: left;
+    font-size: 18px;
+    line-height: 22px;
+    padding: 10px 10px 10px 46px;
+}
+.digital_ticket .tickets .ticket .content .actions .button_to {display: inline;float: left;}
+.digital_ticket .tickets .ticket .content .actions a:hover,
+.digital_ticket .tickets .ticket .content .actions input[type='submit']:hover {
+  background-color:transparent;
+  color:#398bce;
+}
+.digital_ticket .tickets .ticket .content .actions a.close, .digital_ticket .tickets .ticket .content .actions input.close[type="submit"] {
+    background-image: url("../images/ticket/close.png");
+}
+.digital_ticket .tickets .ticket .content .actions a.close:hover,
+.digital_ticket .tickets .ticket .content .actions input[type='submit'].close:hover {
+  color:#cc5152;
+  background-image: url("../images/ticket/close-active.png");
+}
+.digital_delete{color:#cc5152 !important;background-image: url("../images/ticket/close-active.png");}
+.digital_ticket .tickets .ticket .content .actions a.view, .digital_ticket .tickets .ticket .content .actions input.view[type="submit"] {background-image: url("../images/ticket/view.png");}
+.digital_ticket .tickets .ticket .content .actions a.view:hover,.digital_ticket .tickets .ticket .content .actions input[type='submit'].view:hover{background-image: url("../images/ticket/view-active.png");}
+/* Dec 14, 2014 bk body { background-color: #b4b4b4;color: #000;font-family: Arial;font-size: 12px;margin: 0;padding: 0;text-align: center;}*/
+body {color: #000;font-family: Arial;font-size: 12px;margin: 0;padding: 0;}
+body {color: #1f1f1f;font: 10pt Arial,Helvetica,sans-serif;margin: 0;padding: 0;}
+.digital_ticket .tickets .ticket .content .actions a, .digital_ticket .tickets .ticket .content .actions input[type="submit"] {
+    background-position: 10px center;
+    background-repeat: no-repeat;
+    border-radius: 4px;
+    color: #b3b3b3;
+    display: inline;
+    float: left;
+    font-size: 18px;
+    line-height: 22px;
+    padding: 10px 10px 10px 46px;
+}
+.digital_ticket .tickets .ticket .content .actions input[type="submit"] {background-color: #fff;border: 0 none;}
+button, html input[type="button"], input[type="reset"], input[type="submit"] {cursor: pointer;}
+
+.digital_ticket .tickets .ticket .content .created_at {clear: left;color: #868788;display: inline;float: left;font-size: 12px;margin: 0;padding-top: 5px;}
+.label {background: none repeat scroll 0 0 #999;border-radius: 3px;color: #fff;font-size: 13px;font-weight: bold;line-height: 13px;padding: 1px 4px 2px;vertical-align: middle;}
+
+.digital_ticket .tickets .ticket .post_reply h4 { background: url("../images/ticket/reply.png") no-repeat scroll left center rgba(0, 0, 0, 0);color: #bebebe;   line-height: 28px;    margin: 20px 0 0 35px;    padding-left: 38px;}
+/*for ul ticket*/
+/*for form repy ticket*/
+.digital_ticket .tickets .ticket #new_reply {background-color: #fff;border-bottom-left-radius: 4px;border-bottom-right-radius: 4px;padding: 25px 30px;}
+.digital_ticket .tickets .ticket #new_reply .control-group {display: block;float: none;}
+.digital_ticket .tickets .ticket #new_reply textarea {background-color: #fff;border: 1px solid #f5f5f5;border-radius: 4px;color: #4c4c4c;margin-bottom: 15px;width: 640px;}
+.collapse form textarea, .collapse .content-area textarea, .styled-form form textarea, .styled-form .content-area textarea {height: 140px;}
+/*for form repy ticket*/
+/*for ul repy ticket*/
+.digital_ticket .tickets .ticket .replies {list-style: none outside none;margin: 0;padding: 0;}
+.digital_ticket .tickets .ticket .replies .reply:before, .digital_ticket .tickets .ticket .replies .reply:after {content: "";display: table;line-height: 0;}
+.digital_ticket .tickets .ticket .replies .reply:after {clear: both;}
+.digital_ticket .tickets .ticket .replies .reply:before, .digital_ticket .tickets .ticket .replies .reply:after {content: "";display: table;line-height: 0;}
+.digital_ticket .tickets .ticket .replies .reply {margin: 0 30px 25px;}
+.digital_ticket .tickets .ticket .replies .reply.received .message {display: inline;float: right;}
+.digital_ticket .tickets .ticket .replies .reply .message {background-color: #fff;border-radius: 4px;display: inline;float: left;padding: 10px;position: relative;width: 600px;}
+.digital_ticket .tickets .ticket .replies .reply.received .message {display: inline;float: right;}
+.digital_ticket .tickets .ticket .replies .reply .message {background-color: #fff;border-radius: 4px;display: inline;float: left;padding: 10px;position: relative;width: 600px;}
+.digital_ticket .tickets .ticket .replies .reply .author {font-size: 12px;text-align: center;}
+.digital_ticket .tickets .ticket .replies .reply .author img {border: 2px solid #333;border-radius: 50%;height: 70px;width: 70px;}
+.digital_ticket .tickets .ticket .replies .reply.received .author {display: inline;float: left;}
+.digital_ticket .tickets .ticket .replies .reply .author {display: inline;float: right;font-size: 12px;margin-top: 10px;text-align: center;width: 170px;}
+.digital_ticket .tickets .ticket .replies .reply .message .posted_on {border-top: 1px solid #dadada;color: #a9a8a8;display: block;margin-top: 1em;padding-top: 10px;text-align: right;width: 100%;}
+.digital_ticket .tickets .ticket .replies .reply.received .message {display: inline;float: right;}
+.digital_ticket .tickets .ticket .replies .reply .message {background-color: #fff;border-radius: 4px;display: inline;float: left;padding: 10px;position: relative;width: 600px;}
+table.items td, table.items th { font-size: 11px !important;line-height: 120% !important; }
+/*for ul repy ticket*/

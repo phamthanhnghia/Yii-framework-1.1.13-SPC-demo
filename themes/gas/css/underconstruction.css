@@ -1,0 +1,40 @@
+  body {
+    background: url("../images/gas-body-bg.jpg") repeat scroll left top rgba(0, 0, 0, 0);
+    margin: 0;
+    padding: 0;
+}
+#wrapper {
+    background: url("../images/gas-wrapper-bg.jpg") no-repeat scroll center top #FFFFFF;
+    height: 768px;
+    margin: 0 auto;
+    padding: 0;
+    text-align: center;
+    width: 907px;
+}
+h1 {
+    color: #333333;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 20px;
+    font-style: italic;
+    margin: 0;
+    padding: 200px 120px 0;
+}
+p {
+    color: #666666;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 13px;
+    line-height: 1.5;
+    margin: 0;
+    padding: 15px 120px 0;
+}
+a, a:active, a:visited {
+    color: #D74828;
+    outline: medium none;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+p.type {
+    padding-top: 5px;
+}

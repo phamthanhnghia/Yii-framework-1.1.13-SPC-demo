@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+    <head>
+        <meta charset="utf-8" />
+        <title>SK Gas</title>
+		<link rel="SHORTCUT ICON" href="favicon.ico" type="image/x-icon" />
+		<meta name="viewport" content="width=device-width" /> 
+        <meta name="description" content="" />
+        <meta content="telephone=no" name="format-detection" />
+		<link rel="stylesheet" href="css/font-awesome.min.css" />
+        <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE" />
+		
+        <link rel="stylesheet" href="css/plugins.css" />
+        <link rel="stylesheet" href="css/bootstrap.min.css" />
+        <link rel="stylesheet" href="css/main.css" />
+         <!--[if lt IE 9]>
+            <link href="css/fixie8.css" rel="stylesheet" media="screen" /> 
+        <![endif]-->
+        <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+    </head>
+    <body>
+    <header>
+    	<div class="container">
+        	<div class="logo">
+            	<a href="#"><img src="img/logo.png" alt=""/></a>
+            </div>	
+            <div class="nav-top">
+            	<ul class="link-top">
+                	<li><a href="#">SITEMAP</a></li>
+                    <li><a href="#">KOREAN</a></li>
+                    <li><a href="#">SK GROUP</a></li>
+                    <li class="link-custom"><a href="#">Chăm sóc khách hàng</a></li>
+                </ul>
+                <div class="dropdown">
+                      <button id="dLabel" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                           <span class="icon-flags"><img src="img/United-Kingdom.jpg" alt=""/></span>English 
+                          <span class="icon-top"><i class="fa fa-sort"></i></span>
+                      </button>
+                      <ul class="dropdown-menu" aria-labelledby="dLabel">
+                        <li><a href="#"><span class="icon-flags-dropdown"><img src="img/United-Kingdom.jpg" alt=""/></span>English </a></li>
+                        <li><a href="#"><span class="icon-flags-dropdown"><img src="img/Vn.jpg" alt=""/></span>VietNam</a></li>
+                      </ul>
+                </div>
+               <div class="mainmenu">
+               		 <div id="sidebar-btn">
+                           <span></span>
+                           <span></span>
+                           <span></span>
+                       </div>
+                       <div id='sidebar'>
+               	 	<ul class="menu clearfix">
+                    	<li><a href="#">Giới thiệu SK Gas</a>
+                        	<div class="divmenu">
+                            	<div class="container">
+                                	<h3><span><i class="fa fa-home"></i></span>Giới thiệu SK Gas</h3>
+									<ul class="menusub">
+										<li><a href="#">Thông điệp CEO</a></li>
+										<li><a href="#">Tổng quan</a></li>
+										<li><a href="#">Văn hóa công ty</a></li>
+										<li><a href="#">Đại lý phân phối</a></li>
+									</ul>
+                                </div>
+                            </div>
+                        </li>
+                        <li><a href="#">Lĩnh vực kinh doanh</a>
+                        	<div class="divmenu">
+                            	<div class="container">
+                                	<h3><span><i class="fa fa-file-text"></i></span>Lĩnh vực kinh doanh</h3>
+                                <ul class="menusub">
+                                    <li><a href="#">LPG Marketing</a></li>
+                                    <li><a href="#">Global LPG Trading</a></li>
+                                    <li><a href="#">LPG Import Terminal</a></li>
+                                    <li><a href="#">Operation of Import Terminal</a></li>
+                                    
+                                </ul>
+                                </div>
+                            </div>
+                        </li>
+                        <li><a href="#">Đối tác</a>
+                        <div class="divmenu">
+                            	<div class="container">
+                                	<h3><span><i class="fa fa-pie-chart"></i></span>Đối tác</h3>
+                                <ul class="menusub">
+                                    <li><a href="#">Financial Information</a></li>
+                                 <li><a href="#">Corporate Governance</a></li>
+                                 <li><a href="#">Stock Price</a></li>
+                                </ul>
+                                </div>
+                            </div>
+                        </li>
+                        <li><a href="#">CSR</a></li>
+                        <li><a href="#">PR Room</a></li>
+                        <li><a href="#">Tuyển dụng</a></li>
+               	 	</ul>
+               </div>
+            </div>
+        </div>
+    </header>
+    <section class="bannerhome">
+    	<div class="slider-for">
+        	<div><img src="img/img1.jpg" alt=""/></div>
+            <div><img src="img/img2.jpg" alt=""/></div>
+        </div>
+        
+    </section>
+    <section class="mainhome1">
+    	<div class="container">
+        	<div class="infobanner-1">
+            	<h3>Business Area</h3>
+                <p>SK Gas, the No.1 player in the Korean LPG market is advancing forward to become a global leading gas value integrator.</p>
+                <a href="#">more</a>
+            </div>
+        </div>
+    </section>
+    <section class="mainhome2">
+   			<div class="container">
+        	<div class="infobanner-1">
+            	<h3>Investment Relations</h3>
+                <p>SK Gas has been and will be committing itself to maximizing its corporate value as well as the stakeholders' satisfaction..</p>
+                <a href="#">more</a>
+            </div>
+            </div>
+            
+    </section>
+     <section class="mainhome3">
+     	<div class="container">
+        	<div class="container">
+        	<div class="infobanner-1">
+            	<h3>CSR for Social Contribution</h3>
+                <p>SK Gas pledges to live up to its corporate social responsibilities and contribute to a sustainable society through programs and activities promoting and propagating environmental friendliness, social well-being and happiness.</p>
+                <a href="#">more</a>
+                <ul class="list-csr nav-tabs">
+                	<li class="active"><a href="#tab1">Environmental Friendliness</a></li>
+                    <li><a  href="#tab2">Social Welfare</a></li>
+                    <li><a  href="#tab3">Propagation of Happiness</a></li>
+                </ul>
+            </div>
+            <div class="img-crs">
+            	<div id="tab1" class="tab-content active">
+                	<img src="img/csr_img.png" alt=""/>
+                </div>
+                <div id="tab2" class="tab-content hide">
+                	<img src="img/csr_img_02.png" alt=""/>
+                </div>
+                <div id="tab3" class="tab-content hide">
+                	<img src="img/csr_img_03.png" alt=""/>
+                </div>
+            </div>
+        </div>
+     </section>
+     <section class="mainhome4">
+     	<div class="container">
+        	<div class="infobanner-1">
+            	<h3>Careers</h3>
+                <p>In a nation whose growth has been nurtured by human resources, SK cherishes and nurtures human beings. SK seeks those who are full of spirit and passion.</p>
+                <a href="#">more</a>
+                </div>
+            </div>
+        </div>
+     </section>
+    <footer>
+    	<div class="container">
+            <div class="row">
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <h3>Menu links</h3>
+                    <ul>
+                        <li><a href="#">Personal Information </a></li>
+                        <li><a href="#">Ethical Management Inquiry </a></li>
+                        <li><a href="#">Personal Information </a></li>
+                       <li><a href="#">Personal Information </a></li>
+                    </ul>
+                </div>
+                 <div class="col-md-3 col-sm-6 col-xs-12">
+                    <h3>Menu links</h3>
+                    <ul>
+                        <li><a href="#">Personal Information </a></li>
+                        <li><a href="#">Ethical Management Inquiry </a></li>
+                        <li><a href="#">Personal Information </a></li>
+                       <li><a href="#">Personal Information </a></li>
+                    </ul>
+                </div>
+                 <div class="col-md-3 col-sm-6 col-xs-12">
+                    <h3>Menu links</h3>
+                    <ul>
+                        <li><a href="#">Personal Information </a></li>
+                        <li><a href="#">Ethical Management Inquiry </a></li>
+                        <li><a href="#">Personal Information </a></li>
+                       <li><a href="#">Personal Information </a></li>
+                    </ul>
+                </div>
+                 <div class="col-md-3 col-sm-6 col-xs-12">
+                    <h3>Menu links</h3>
+                    <ul>
+                        <li><a href="#">Personal Information </a></li>
+                        <li><a href="#">Ethical Management Inquiry </a></li>
+                        <li><a href="#">Personal Information </a></li>
+                       <li><a href="#">Personal Information </a></li>
+                    </ul>
+                </div>
+            </div>
+            
+        </div>
+        <div class="copyright">
+            
+                   SK GAS CO, LTD., SK Chemicals Complex, ECO Hub, 332, Pangyo-ro, Bundang-gu, Seongnam-si, Gyeonggi-do, Korea  <br/>Tel. +82-2-6200-8114  <br/> Fax. +82-2-6200-8118
+           
+        </div>
+        <div class="footer-wapper">
+            <div class="container">
+            	<div class="logo-ft"> 
+                	<img src="img/logo-ft.png" alt="">
+                </div>
+                <ul class="footer-menu">
+                	<li><a href="#">Information Management</a></li>
+                    <li><a href="#">PoliciesEthical Management </a><span class="icon-plugs"></span>
+                    	<ul><li><a href="#">SK Ethical Management</a></li>
+                            <li><a href="#">SK Shared Growth Commission</a></li>
+                            <li><a href="#">SK innovation</a></li>
+                            <li><a href="#">SK energy</a></li>
+                            <li><a href="#">SK global chemical</a></li>
+                            <li><a href="#">SK lubricants</a></li>
+                            <li><a href="#">SK chemicals</a></li>
+                            <li><a href="#">SK E&S </a></li>
+                        </ul>
+                    </li>
+                    <li><a href="#">Inquiry Family </a>
+                    	<span class="icon-plugs"></span>
+                    	<ul><li><a href="#">SK Ethical Management</a></li>
+                            <li><a href="#">SK Shared Growth Commission</a></li>
+                            <li><a href="#">SK innovation</a></li>
+                            <li><a href="#">SK energy</a></li>
+                            <li><a href="#">SK global chemical</a></li>
+                            <li><a href="#">SK lubricants</a></li>
+                            <li><a href="#">SK chemicals</a></li>
+                            <li><a href="#">SK E&S </a></li>
+                        </ul>
+                    </li>
+                    </li>
+                    <li><a href="#">Web Sites</a></li>
+                </ul>
+                <p>SK GAS CO, LTD., SK Chemicals Complex, ECO Hub, 332, Pangyo-ro, Bundang-gu, Seongnam-si, Gyeonggi-do, Korea  Tel. +82-2-6200-8114   Fax. +82-2-6200-8118</p>
+                <p class="note-f">Copyright(C) <span>SK Gas</span>. All Rights Reserved.</p>
+            </div>
+        </div>
+    </footer>
+    
+        
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/plugins.js"></script>
+       
+    </body>
+</html>

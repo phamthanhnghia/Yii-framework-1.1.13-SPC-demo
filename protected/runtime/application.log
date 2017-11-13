@@ -1,0 +1,1575 @@
+2017/11/13 13:40:58 [trace] [system.CModule] Loading "log" application component
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 13:40:58 [trace] [system.CModule] Loading "request" application component
+in /var/www/html/sdemo/protected/extensions/yii-debug-toolbar/YiiDebugToolbarRoute.php (123)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 13:40:58 [trace] [system.CModule] Loading "setting" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+in /var/www/html/sdemo/index.php (27)
+2017/11/13 13:40:58 [trace] [system.CModule] Loading "db" application component
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:40:58 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:40:58 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM gas_settings WHERE 1
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (209)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:40:58 [profile] [system.db.CDbCommand.query] begin:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 13:40:58 [profile] [system.db.CDbCommand.query] end:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 13:40:58 [trace] [system.CModule] Loading "mail" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (143)
+in /var/www/html/sdemo/index.php (27)
+2017/11/13 13:40:58 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/html/sdemo/index.php (29)
+2017/11/13 13:40:58 [trace] [system.web.filters.CFilterChain] Running filter SiteController.filteraccessControl()
+in /var/www/html/sdemo/index.php (29)
+2017/11/13 13:40:58 [trace] [system.CModule] Loading "user" application component
+in /var/www/html/sdemo/index.php (29)
+2017/11/13 13:40:58 [trace] [system.CModule] Loading "session" application component
+in /var/www/html/sdemo/index.php (29)
+2017/11/13 13:40:58 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/index.php (29)
+2017/11/13 13:40:59 [trace] [system.CModule] Loading "log" application component
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 13:40:59 [trace] [system.CModule] Loading "request" application component
+in /var/www/html/sdemo/protected/extensions/yii-debug-toolbar/YiiDebugToolbarRoute.php (123)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 13:40:59 [trace] [system.CModule] Loading "setting" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+in /var/www/html/sdemo/index.php (27)
+2017/11/13 13:40:59 [trace] [system.CModule] Loading "db" application component
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:40:59 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:40:59 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM gas_settings WHERE 1
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (209)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:40:59 [profile] [system.db.CDbCommand.query] begin:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 13:40:59 [profile] [system.db.CDbCommand.query] end:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 13:40:59 [trace] [system.CModule] Loading "mail" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (143)
+in /var/www/html/sdemo/index.php (27)
+2017/11/13 13:40:59 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/html/sdemo/index.php (29)
+2017/11/13 13:40:59 [trace] [system.web.filters.CFilterChain] Running filter SiteController.filteraccessControl()
+in /var/www/html/sdemo/index.php (29)
+2017/11/13 13:40:59 [trace] [system.CModule] Loading "user" application component
+in /var/www/html/sdemo/index.php (29)
+2017/11/13 13:40:59 [trace] [system.CModule] Loading "session" application component
+in /var/www/html/sdemo/index.php (29)
+2017/11/13 13:40:59 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/index.php (29)
+2017/11/13 13:41:09 [trace] [system.CModule] Loading "log" application component
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 13:41:09 [trace] [system.CModule] Loading "request" application component
+in /var/www/html/sdemo/protected/extensions/yii-debug-toolbar/YiiDebugToolbarRoute.php (123)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 13:41:09 [trace] [system.CModule] Loading "setting" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+in /var/www/html/sdemo/index.php (27)
+2017/11/13 13:41:09 [trace] [system.CModule] Loading "db" application component
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:41:09 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:41:09 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM gas_settings WHERE 1
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (209)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:41:09 [profile] [system.db.CDbCommand.query] begin:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 13:41:09 [profile] [system.db.CDbCommand.query] end:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 13:41:09 [trace] [system.CModule] Loading "mail" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (143)
+in /var/www/html/sdemo/index.php (27)
+2017/11/13 13:41:09 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/html/sdemo/index.php (29)
+2017/11/13 13:41:09 [trace] [system.web.filters.CFilterChain] Running filter SiteController.filteraccessControl()
+in /var/www/html/sdemo/index.php (29)
+2017/11/13 13:41:09 [trace] [system.CModule] Loading "user" application component
+in /var/www/html/sdemo/index.php (29)
+2017/11/13 13:41:09 [trace] [system.CModule] Loading "session" application component
+in /var/www/html/sdemo/index.php (29)
+2017/11/13 13:41:09 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/index.php (29)
+2017/11/13 13:43:40 [trace] [system.CModule] Loading "log" application component
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 13:43:40 [trace] [system.CModule] Loading "request" application component
+in /var/www/html/sdemo/protected/extensions/yii-debug-toolbar/YiiDebugToolbarRoute.php (123)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 13:43:40 [trace] [system.CModule] Loading "setting" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+in /var/www/html/sdemo/index.php (27)
+2017/11/13 13:43:40 [trace] [system.CModule] Loading "db" application component
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:43:40 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:43:40 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM gas_settings WHERE 1
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (209)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:43:40 [profile] [system.db.CDbCommand.query] begin:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 13:43:40 [profile] [system.db.CDbCommand.query] end:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 13:43:40 [trace] [system.CModule] Loading "mail" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (143)
+in /var/www/html/sdemo/index.php (27)
+2017/11/13 13:43:40 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/html/sdemo/index.php (29)
+2017/11/13 13:43:40 [trace] [system.web.filters.CFilterChain] Running filter SiteController.filteraccessControl()
+in /var/www/html/sdemo/index.php (29)
+2017/11/13 13:43:40 [trace] [system.CModule] Loading "user" application component
+in /var/www/html/sdemo/index.php (29)
+2017/11/13 13:43:40 [trace] [system.CModule] Loading "session" application component
+in /var/www/html/sdemo/index.php (29)
+2017/11/13 13:43:40 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/index.php (29)
+2017/11/13 13:43:42 [trace] [system.CModule] Loading "log" application component
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 13:43:42 [trace] [system.CModule] Loading "request" application component
+in /var/www/html/sdemo/protected/extensions/yii-debug-toolbar/YiiDebugToolbarRoute.php (123)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 13:43:42 [trace] [system.CModule] Loading "setting" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+in /var/www/html/sdemo/index.php (27)
+2017/11/13 13:43:42 [trace] [system.CModule] Loading "db" application component
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:43:42 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:43:42 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM gas_settings WHERE 1
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (209)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:43:42 [profile] [system.db.CDbCommand.query] begin:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 13:43:42 [profile] [system.db.CDbCommand.query] end:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 13:43:42 [trace] [system.CModule] Loading "mail" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (143)
+in /var/www/html/sdemo/index.php (27)
+2017/11/13 13:43:42 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/html/sdemo/index.php (29)
+2017/11/13 13:43:42 [trace] [system.web.filters.CFilterChain] Running filter SiteController.filteraccessControl()
+in /var/www/html/sdemo/index.php (29)
+2017/11/13 13:43:42 [trace] [system.CModule] Loading "user" application component
+in /var/www/html/sdemo/index.php (29)
+2017/11/13 13:43:42 [trace] [system.CModule] Loading "session" application component
+in /var/www/html/sdemo/index.php (29)
+2017/11/13 13:43:42 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/index.php (29)
+2017/11/13 13:43:50 [trace] [system.CModule] Loading "log" application component
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 13:43:50 [trace] [system.CModule] Loading "request" application component
+in /var/www/html/sdemo/protected/extensions/yii-debug-toolbar/YiiDebugToolbarRoute.php (123)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 13:43:50 [trace] [system.CModule] Loading "setting" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+in /var/www/html/sdemo/index.php (27)
+2017/11/13 13:43:50 [trace] [system.CModule] Loading "db" application component
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:43:50 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:43:50 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM gas_settings WHERE 1
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (209)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:43:50 [profile] [system.db.CDbCommand.query] begin:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 13:43:50 [profile] [system.db.CDbCommand.query] end:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 13:43:50 [trace] [system.CModule] Loading "mail" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (143)
+in /var/www/html/sdemo/index.php (27)
+2017/11/13 13:43:50 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/html/sdemo/index.php (29)
+2017/11/13 13:43:50 [trace] [system.web.filters.CFilterChain] Running filter SiteController.filteraccessControl()
+in /var/www/html/sdemo/index.php (29)
+2017/11/13 13:43:50 [trace] [system.CModule] Loading "user" application component
+in /var/www/html/sdemo/index.php (29)
+2017/11/13 13:43:50 [trace] [system.CModule] Loading "session" application component
+in /var/www/html/sdemo/index.php (29)
+2017/11/13 13:43:50 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/index.php (29)
+2017/11/13 13:46:39 [trace] [system.CModule] Loading "log" application component
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 13:46:39 [trace] [system.CModule] Loading "request" application component
+in /var/www/html/sdemo/protected/extensions/yii-debug-toolbar/YiiDebugToolbarRoute.php (123)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 13:46:39 [trace] [system.CModule] Loading "setting" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+in /var/www/html/sdemo/index.php (27)
+2017/11/13 13:46:39 [trace] [system.CModule] Loading "db" application component
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:46:39 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:46:39 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM gas_settings WHERE 1
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (209)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:46:39 [profile] [system.db.CDbCommand.query] begin:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 13:46:39 [profile] [system.db.CDbCommand.query] end:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 13:46:39 [trace] [system.CModule] Loading "mail" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (143)
+in /var/www/html/sdemo/index.php (27)
+2017/11/13 13:46:39 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/html/sdemo/index.php (29)
+2017/11/13 13:46:39 [trace] [system.web.filters.CFilterChain] Running filter SiteController.filteraccessControl()
+in /var/www/html/sdemo/index.php (29)
+2017/11/13 13:46:39 [trace] [system.CModule] Loading "user" application component
+in /var/www/html/sdemo/index.php (29)
+2017/11/13 13:46:39 [trace] [system.CModule] Loading "session" application component
+in /var/www/html/sdemo/index.php (29)
+2017/11/13 13:46:39 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/index.php (29)
+2017/11/13 13:46:40 [trace] [system.CModule] Loading "log" application component
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 13:46:40 [trace] [system.CModule] Loading "request" application component
+in /var/www/html/sdemo/protected/extensions/yii-debug-toolbar/YiiDebugToolbarRoute.php (123)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 13:46:40 [trace] [system.CModule] Loading "setting" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+in /var/www/html/sdemo/index.php (27)
+2017/11/13 13:46:40 [trace] [system.CModule] Loading "db" application component
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:46:40 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:46:40 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM gas_settings WHERE 1
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (209)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:46:40 [profile] [system.db.CDbCommand.query] begin:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 13:46:40 [profile] [system.db.CDbCommand.query] end:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 13:46:40 [trace] [system.CModule] Loading "mail" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (143)
+in /var/www/html/sdemo/index.php (27)
+2017/11/13 13:46:40 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/html/sdemo/index.php (29)
+2017/11/13 13:46:40 [trace] [system.web.filters.CFilterChain] Running filter SiteController.filteraccessControl()
+in /var/www/html/sdemo/index.php (29)
+2017/11/13 13:46:40 [trace] [system.CModule] Loading "user" application component
+in /var/www/html/sdemo/index.php (29)
+2017/11/13 13:46:40 [trace] [system.CModule] Loading "session" application component
+in /var/www/html/sdemo/index.php (29)
+2017/11/13 13:46:40 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/index.php (29)
+2017/11/13 13:46:40 [trace] [system.CModule] Loading "log" application component
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 13:46:40 [trace] [system.CModule] Loading "request" application component
+in /var/www/html/sdemo/protected/extensions/yii-debug-toolbar/YiiDebugToolbarRoute.php (123)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 13:46:40 [trace] [system.CModule] Loading "setting" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+in /var/www/html/sdemo/index.php (27)
+2017/11/13 13:46:40 [trace] [system.CModule] Loading "db" application component
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:46:40 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:46:40 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM gas_settings WHERE 1
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (209)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:46:40 [profile] [system.db.CDbCommand.query] begin:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 13:46:40 [profile] [system.db.CDbCommand.query] end:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 13:46:40 [trace] [system.CModule] Loading "mail" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (143)
+in /var/www/html/sdemo/index.php (27)
+2017/11/13 13:46:40 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/html/sdemo/index.php (29)
+2017/11/13 13:46:40 [trace] [system.web.filters.CFilterChain] Running filter SiteController.filteraccessControl()
+in /var/www/html/sdemo/index.php (29)
+2017/11/13 13:46:40 [trace] [system.CModule] Loading "user" application component
+in /var/www/html/sdemo/index.php (29)
+2017/11/13 13:46:40 [trace] [system.CModule] Loading "session" application component
+in /var/www/html/sdemo/index.php (29)
+2017/11/13 13:46:40 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/index.php (29)
+2017/11/13 13:46:41 [trace] [system.CModule] Loading "log" application component
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 13:46:41 [trace] [system.CModule] Loading "request" application component
+in /var/www/html/sdemo/protected/extensions/yii-debug-toolbar/YiiDebugToolbarRoute.php (123)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 13:46:41 [trace] [system.CModule] Loading "setting" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+in /var/www/html/sdemo/index.php (27)
+2017/11/13 13:46:41 [trace] [system.CModule] Loading "db" application component
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:46:41 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:46:41 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM gas_settings WHERE 1
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (209)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:46:41 [profile] [system.db.CDbCommand.query] begin:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 13:46:41 [profile] [system.db.CDbCommand.query] end:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 13:46:41 [trace] [system.CModule] Loading "mail" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (143)
+in /var/www/html/sdemo/index.php (27)
+2017/11/13 13:46:41 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/html/sdemo/index.php (29)
+2017/11/13 13:46:41 [trace] [system.web.filters.CFilterChain] Running filter SiteController.filteraccessControl()
+in /var/www/html/sdemo/index.php (29)
+2017/11/13 13:46:41 [trace] [system.CModule] Loading "user" application component
+in /var/www/html/sdemo/index.php (29)
+2017/11/13 13:46:41 [trace] [system.CModule] Loading "session" application component
+in /var/www/html/sdemo/index.php (29)
+2017/11/13 13:46:41 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/index.php (29)
+2017/11/13 13:46:42 [trace] [system.CModule] Loading "log" application component
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 13:46:42 [trace] [system.CModule] Loading "request" application component
+in /var/www/html/sdemo/protected/extensions/yii-debug-toolbar/YiiDebugToolbarRoute.php (123)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 13:46:42 [trace] [system.CModule] Loading "setting" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+in /var/www/html/sdemo/index.php (27)
+2017/11/13 13:46:42 [trace] [system.CModule] Loading "db" application component
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:46:42 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:46:42 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM gas_settings WHERE 1
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (209)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:46:42 [profile] [system.db.CDbCommand.query] begin:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 13:46:42 [profile] [system.db.CDbCommand.query] end:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 13:46:42 [trace] [system.CModule] Loading "mail" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (143)
+in /var/www/html/sdemo/index.php (27)
+2017/11/13 13:46:42 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/html/sdemo/index.php (29)
+2017/11/13 13:46:42 [trace] [system.web.filters.CFilterChain] Running filter SiteController.filteraccessControl()
+in /var/www/html/sdemo/index.php (29)
+2017/11/13 13:46:42 [trace] [system.CModule] Loading "user" application component
+in /var/www/html/sdemo/index.php (29)
+2017/11/13 13:46:42 [trace] [system.CModule] Loading "session" application component
+in /var/www/html/sdemo/index.php (29)
+2017/11/13 13:46:42 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/index.php (29)
+2017/11/13 13:47:08 [trace] [system.CModule] Loading "log" application component
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 13:47:08 [trace] [system.CModule] Loading "request" application component
+in /var/www/html/sdemo/protected/extensions/yii-debug-toolbar/YiiDebugToolbarRoute.php (123)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 13:47:08 [trace] [system.CModule] Loading "setting" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+in /var/www/html/sdemo/index.php (27)
+2017/11/13 13:47:08 [trace] [system.CModule] Loading "db" application component
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:47:08 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:47:08 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM gas_settings WHERE 1
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (209)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:47:08 [profile] [system.db.CDbCommand.query] begin:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 13:47:08 [profile] [system.db.CDbCommand.query] end:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 13:47:08 [trace] [system.CModule] Loading "mail" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (143)
+in /var/www/html/sdemo/index.php (27)
+2017/11/13 13:47:08 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/html/sdemo/index.php (29)
+2017/11/13 13:47:08 [trace] [system.web.filters.CFilterChain] Running filter SiteController.filteraccessControl()
+in /var/www/html/sdemo/index.php (29)
+2017/11/13 13:47:08 [trace] [system.CModule] Loading "user" application component
+in /var/www/html/sdemo/index.php (29)
+2017/11/13 13:47:08 [trace] [system.CModule] Loading "session" application component
+in /var/www/html/sdemo/index.php (29)
+2017/11/13 13:47:08 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/index.php (29)
+2017/11/13 13:47:10 [trace] [system.CModule] Loading "log" application component
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 13:47:10 [trace] [system.CModule] Loading "request" application component
+in /var/www/html/sdemo/protected/extensions/yii-debug-toolbar/YiiDebugToolbarRoute.php (123)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 13:47:10 [trace] [system.CModule] Loading "setting" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+in /var/www/html/sdemo/index.php (27)
+2017/11/13 13:47:10 [trace] [system.CModule] Loading "db" application component
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:47:10 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:47:10 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM gas_settings WHERE 1
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (209)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:47:10 [profile] [system.db.CDbCommand.query] begin:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 13:47:10 [profile] [system.db.CDbCommand.query] end:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 13:47:10 [trace] [system.CModule] Loading "mail" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (143)
+in /var/www/html/sdemo/index.php (27)
+2017/11/13 13:47:10 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/html/sdemo/index.php (29)
+2017/11/13 13:47:10 [trace] [system.web.filters.CFilterChain] Running filter SiteController.filteraccessControl()
+in /var/www/html/sdemo/index.php (29)
+2017/11/13 13:47:10 [trace] [system.CModule] Loading "user" application component
+in /var/www/html/sdemo/index.php (29)
+2017/11/13 13:47:10 [trace] [system.CModule] Loading "session" application component
+in /var/www/html/sdemo/index.php (29)
+2017/11/13 13:47:10 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/index.php (29)
+2017/11/13 13:51:12 [trace] [system.CModule] Loading "log" application component
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 13:51:12 [trace] [system.CModule] Loading "request" application component
+in /var/www/html/sdemo/protected/extensions/yii-debug-toolbar/YiiDebugToolbarRoute.php (123)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 13:51:12 [trace] [system.CModule] Loading "setting" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 13:51:12 [trace] [system.CModule] Loading "db" application component
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:51:12 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:51:12 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM gas_settings WHERE 1
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (209)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:51:12 [profile] [system.db.CDbCommand.query] begin:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 13:51:12 [profile] [system.db.CDbCommand.query] end:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 13:51:12 [trace] [system.CModule] Loading "mail" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (143)
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 13:51:12 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/html/sdemo/index.php (27)
+2017/11/13 13:51:12 [trace] [system.web.filters.CFilterChain] Running filter SiteController.filteraccessControl()
+in /var/www/html/sdemo/index.php (27)
+2017/11/13 13:51:12 [trace] [system.CModule] Loading "user" application component
+in /var/www/html/sdemo/index.php (27)
+2017/11/13 13:51:12 [trace] [system.CModule] Loading "session" application component
+in /var/www/html/sdemo/index.php (27)
+2017/11/13 13:51:12 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/index.php (27)
+2017/11/13 13:51:14 [trace] [system.CModule] Loading "log" application component
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 13:51:14 [trace] [system.CModule] Loading "request" application component
+in /var/www/html/sdemo/protected/extensions/yii-debug-toolbar/YiiDebugToolbarRoute.php (123)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 13:51:14 [trace] [system.CModule] Loading "setting" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 13:51:14 [trace] [system.CModule] Loading "db" application component
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:51:14 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:51:14 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM gas_settings WHERE 1
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (209)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:51:14 [profile] [system.db.CDbCommand.query] begin:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 13:51:14 [profile] [system.db.CDbCommand.query] end:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 13:51:14 [trace] [system.CModule] Loading "mail" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (143)
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 13:51:14 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/html/sdemo/index.php (27)
+2017/11/13 13:51:14 [trace] [system.web.filters.CFilterChain] Running filter SiteController.filteraccessControl()
+in /var/www/html/sdemo/index.php (27)
+2017/11/13 13:51:14 [trace] [system.CModule] Loading "user" application component
+in /var/www/html/sdemo/index.php (27)
+2017/11/13 13:51:14 [trace] [system.CModule] Loading "session" application component
+in /var/www/html/sdemo/index.php (27)
+2017/11/13 13:51:14 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/index.php (27)
+2017/11/13 13:51:42 [trace] [system.CModule] Loading "log" application component
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 13:51:42 [trace] [system.CModule] Loading "request" application component
+in /var/www/html/sdemo/protected/extensions/yii-debug-toolbar/YiiDebugToolbarRoute.php (123)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 13:51:42 [trace] [system.CModule] Loading "setting" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 13:51:42 [trace] [system.CModule] Loading "db" application component
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:51:42 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:51:42 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM gas_settings WHERE 1
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (209)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:51:42 [profile] [system.db.CDbCommand.query] begin:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 13:51:42 [profile] [system.db.CDbCommand.query] end:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 13:51:42 [trace] [system.CModule] Loading "mail" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (143)
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 13:51:42 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/html/sdemo/index.php (27)
+2017/11/13 13:51:42 [trace] [system.web.filters.CFilterChain] Running filter SiteController.filteraccessControl()
+in /var/www/html/sdemo/index.php (27)
+2017/11/13 13:51:42 [trace] [system.CModule] Loading "user" application component
+in /var/www/html/sdemo/index.php (27)
+2017/11/13 13:51:42 [trace] [system.CModule] Loading "session" application component
+in /var/www/html/sdemo/index.php (27)
+2017/11/13 13:51:42 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/index.php (27)
+2017/11/13 13:53:19 [trace] [system.CModule] Loading "log" application component
+in /var/www/html/sdemo/index.php (24)
+2017/11/13 13:53:19 [trace] [system.CModule] Loading "request" application component
+in /var/www/html/sdemo/protected/extensions/yii-debug-toolbar/YiiDebugToolbarRoute.php (123)
+in /var/www/html/sdemo/index.php (24)
+2017/11/13 13:53:19 [trace] [system.CModule] Loading "setting" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 13:53:19 [trace] [system.CModule] Loading "db" application component
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:53:19 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:53:19 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM gas_settings WHERE 1
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (209)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:53:19 [profile] [system.db.CDbCommand.query] begin:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 13:53:19 [profile] [system.db.CDbCommand.query] end:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 13:53:19 [trace] [system.CModule] Loading "mail" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (143)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 13:53:19 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 13:53:19 [trace] [system.web.filters.CFilterChain] Running filter SiteController.filteraccessControl()
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 13:53:19 [trace] [system.CModule] Loading "user" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 13:53:19 [trace] [system.CModule] Loading "session" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 13:53:19 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 13:53:52 [trace] [system.CModule] Loading "log" application component
+in /var/www/html/sdemo/index.php (24)
+2017/11/13 13:53:52 [trace] [system.CModule] Loading "request" application component
+in /var/www/html/sdemo/protected/extensions/yii-debug-toolbar/YiiDebugToolbarRoute.php (123)
+in /var/www/html/sdemo/index.php (24)
+2017/11/13 13:53:52 [trace] [system.CModule] Loading "setting" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 13:53:52 [trace] [system.CModule] Loading "db" application component
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:53:52 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:53:52 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM gas_settings WHERE 1
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (209)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:53:52 [profile] [system.db.CDbCommand.query] begin:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 13:53:52 [profile] [system.db.CDbCommand.query] end:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 13:53:52 [trace] [system.CModule] Loading "mail" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (143)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 13:53:52 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 13:53:52 [trace] [system.web.filters.CFilterChain] Running filter SiteController.filteraccessControl()
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 13:53:52 [trace] [system.CModule] Loading "user" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 13:53:52 [trace] [system.CModule] Loading "session" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 13:53:52 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 13:53:53 [trace] [system.CModule] Loading "log" application component
+in /var/www/html/sdemo/index.php (24)
+2017/11/13 13:53:53 [trace] [system.CModule] Loading "request" application component
+in /var/www/html/sdemo/protected/extensions/yii-debug-toolbar/YiiDebugToolbarRoute.php (123)
+in /var/www/html/sdemo/index.php (24)
+2017/11/13 13:53:53 [trace] [system.CModule] Loading "setting" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 13:53:53 [trace] [system.CModule] Loading "db" application component
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:53:53 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:53:53 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM gas_settings WHERE 1
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (209)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:53:53 [profile] [system.db.CDbCommand.query] begin:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 13:53:53 [profile] [system.db.CDbCommand.query] end:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 13:53:53 [trace] [system.CModule] Loading "mail" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (143)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 13:53:53 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 13:53:53 [trace] [system.web.filters.CFilterChain] Running filter SiteController.filteraccessControl()
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 13:53:53 [trace] [system.CModule] Loading "user" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 13:53:53 [trace] [system.CModule] Loading "session" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 13:53:53 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 13:55:12 [trace] [system.CModule] Loading "log" application component
+in /var/www/html/sdemo/index.php (24)
+2017/11/13 13:55:12 [trace] [system.CModule] Loading "request" application component
+in /var/www/html/sdemo/protected/extensions/yii-debug-toolbar/YiiDebugToolbarRoute.php (123)
+in /var/www/html/sdemo/index.php (24)
+2017/11/13 13:55:12 [trace] [system.CModule] Loading "setting" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 13:55:12 [trace] [system.CModule] Loading "db" application component
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:55:12 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:55:12 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM gas_settings WHERE 1
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (209)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:55:12 [profile] [system.db.CDbCommand.query] begin:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 13:55:12 [profile] [system.db.CDbCommand.query] end:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 13:55:12 [trace] [system.CModule] Loading "mail" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (143)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 13:55:12 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 13:55:12 [trace] [system.web.filters.CFilterChain] Running filter SiteController.filteraccessControl()
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 13:55:12 [trace] [system.CModule] Loading "user" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 13:55:12 [trace] [system.CModule] Loading "session" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 13:55:12 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 13:55:13 [trace] [system.CModule] Loading "log" application component
+in /var/www/html/sdemo/index.php (24)
+2017/11/13 13:55:13 [trace] [system.CModule] Loading "request" application component
+in /var/www/html/sdemo/protected/extensions/yii-debug-toolbar/YiiDebugToolbarRoute.php (123)
+in /var/www/html/sdemo/index.php (24)
+2017/11/13 13:55:13 [trace] [system.CModule] Loading "setting" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 13:55:13 [trace] [system.CModule] Loading "db" application component
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:55:13 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:55:13 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM gas_settings WHERE 1
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (209)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:55:13 [profile] [system.db.CDbCommand.query] begin:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 13:55:13 [profile] [system.db.CDbCommand.query] end:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 13:55:13 [trace] [system.CModule] Loading "mail" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (143)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 13:55:13 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 13:55:13 [trace] [system.web.filters.CFilterChain] Running filter SiteController.filteraccessControl()
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 13:55:13 [trace] [system.CModule] Loading "user" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 13:55:13 [trace] [system.CModule] Loading "session" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 13:55:13 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 13:59:16 [trace] [system.CModule] Loading "log" application component
+in /var/www/html/sdemo/index.php (24)
+2017/11/13 13:59:16 [trace] [system.CModule] Loading "request" application component
+in /var/www/html/sdemo/protected/extensions/yii-debug-toolbar/YiiDebugToolbarRoute.php (123)
+in /var/www/html/sdemo/index.php (24)
+2017/11/13 13:59:16 [trace] [system.CModule] Loading "setting" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 13:59:16 [trace] [system.CModule] Loading "db" application component
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:59:16 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:59:16 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM gas_settings WHERE 1
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (209)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:59:16 [profile] [system.db.CDbCommand.query] begin:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 13:59:16 [profile] [system.db.CDbCommand.query] end:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 13:59:16 [trace] [system.CModule] Loading "mail" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (143)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 13:59:16 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 13:59:16 [trace] [system.web.filters.CFilterChain] Running filter SiteController.filteraccessControl()
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 13:59:16 [trace] [system.CModule] Loading "user" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 13:59:16 [trace] [system.CModule] Loading "session" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 13:59:16 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 13:59:18 [trace] [system.CModule] Loading "log" application component
+in /var/www/html/sdemo/index.php (24)
+2017/11/13 13:59:18 [trace] [system.CModule] Loading "request" application component
+in /var/www/html/sdemo/protected/extensions/yii-debug-toolbar/YiiDebugToolbarRoute.php (123)
+in /var/www/html/sdemo/index.php (24)
+2017/11/13 13:59:18 [trace] [system.CModule] Loading "setting" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 13:59:18 [trace] [system.CModule] Loading "db" application component
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:59:18 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:59:18 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM gas_settings WHERE 1
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (209)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:59:18 [profile] [system.db.CDbCommand.query] begin:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 13:59:18 [profile] [system.db.CDbCommand.query] end:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 13:59:18 [trace] [system.CModule] Loading "mail" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (143)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 13:59:18 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 13:59:18 [trace] [system.web.filters.CFilterChain] Running filter SiteController.filteraccessControl()
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 13:59:18 [trace] [system.CModule] Loading "user" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 13:59:18 [trace] [system.CModule] Loading "session" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 13:59:18 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 13:59:23 [trace] [system.CModule] Loading "log" application component
+in /var/www/html/sdemo/index.php (24)
+2017/11/13 13:59:23 [trace] [system.CModule] Loading "request" application component
+in /var/www/html/sdemo/protected/extensions/yii-debug-toolbar/YiiDebugToolbarRoute.php (123)
+in /var/www/html/sdemo/index.php (24)
+2017/11/13 13:59:23 [trace] [system.CModule] Loading "setting" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 13:59:23 [trace] [system.CModule] Loading "db" application component
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:59:23 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:59:23 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM gas_settings WHERE 1
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (209)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 13:59:23 [profile] [system.db.CDbCommand.query] begin:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 13:59:23 [profile] [system.db.CDbCommand.query] end:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 13:59:23 [trace] [system.CModule] Loading "mail" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (143)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 13:59:23 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 13:59:23 [trace] [system.web.filters.CFilterChain] Running filter SiteController.filteraccessControl()
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 13:59:23 [trace] [system.CModule] Loading "user" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 13:59:23 [trace] [system.CModule] Loading "session" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 13:59:23 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:00:47 [trace] [system.CModule] Loading "log" application component
+in /var/www/html/sdemo/index.php (24)
+2017/11/13 14:00:47 [trace] [system.CModule] Loading "request" application component
+in /var/www/html/sdemo/protected/extensions/yii-debug-toolbar/YiiDebugToolbarRoute.php (123)
+in /var/www/html/sdemo/index.php (24)
+2017/11/13 14:00:47 [trace] [system.CModule] Loading "setting" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 14:00:47 [trace] [system.CModule] Loading "db" application component
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 14:00:47 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 14:00:47 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM gas_settings WHERE 1
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (209)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 14:00:47 [profile] [system.db.CDbCommand.query] begin:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 14:00:47 [profile] [system.db.CDbCommand.query] end:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 14:00:47 [trace] [system.CModule] Loading "mail" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (143)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 14:00:47 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:00:47 [trace] [system.web.filters.CFilterChain] Running filter SiteController.filteraccessControl()
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:00:47 [trace] [system.CModule] Loading "user" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:00:47 [trace] [system.CModule] Loading "session" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:00:47 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:01:21 [trace] [system.CModule] Loading "log" application component
+in /var/www/html/sdemo/index.php (24)
+2017/11/13 14:01:21 [trace] [system.CModule] Loading "request" application component
+in /var/www/html/sdemo/protected/extensions/yii-debug-toolbar/YiiDebugToolbarRoute.php (123)
+in /var/www/html/sdemo/index.php (24)
+2017/11/13 14:01:21 [trace] [system.CModule] Loading "setting" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 14:01:21 [trace] [system.CModule] Loading "db" application component
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 14:01:21 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 14:01:21 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM gas_settings WHERE 1
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (209)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 14:01:21 [profile] [system.db.CDbCommand.query] begin:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 14:01:21 [profile] [system.db.CDbCommand.query] end:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 14:01:21 [trace] [system.CModule] Loading "mail" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (143)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 14:01:21 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:01:21 [trace] [system.web.filters.CFilterChain] Running filter SiteController.filteraccessControl()
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:01:21 [trace] [system.CModule] Loading "user" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:01:21 [trace] [system.CModule] Loading "session" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:01:21 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:20:31 [trace] [system.CModule] Loading "log" application component
+in /var/www/html/sdemo/index.php (24)
+2017/11/13 14:20:31 [trace] [system.CModule] Loading "request" application component
+in /var/www/html/sdemo/protected/extensions/yii-debug-toolbar/YiiDebugToolbarRoute.php (123)
+in /var/www/html/sdemo/index.php (24)
+2017/11/13 14:20:31 [trace] [system.CModule] Loading "setting" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 14:20:31 [trace] [system.CModule] Loading "db" application component
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 14:20:31 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 14:20:31 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM gas_settings WHERE 1
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (209)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 14:20:31 [profile] [system.db.CDbCommand.query] begin:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 14:20:31 [profile] [system.db.CDbCommand.query] end:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 14:20:31 [trace] [system.CModule] Loading "mail" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (143)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 14:20:31 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:20:31 [trace] [system.web.filters.CFilterChain] Running filter SiteController.filteraccessControl()
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:20:31 [trace] [system.CModule] Loading "user" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:20:31 [trace] [system.CModule] Loading "session" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:20:31 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:20:34 [trace] [system.CModule] Loading "log" application component
+in /var/www/html/sdemo/index.php (24)
+2017/11/13 14:20:34 [trace] [system.CModule] Loading "request" application component
+in /var/www/html/sdemo/protected/extensions/yii-debug-toolbar/YiiDebugToolbarRoute.php (123)
+in /var/www/html/sdemo/index.php (24)
+2017/11/13 14:20:34 [trace] [system.CModule] Loading "setting" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 14:20:34 [trace] [system.CModule] Loading "db" application component
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 14:20:34 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 14:20:34 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM gas_settings WHERE 1
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (209)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 14:20:34 [profile] [system.db.CDbCommand.query] begin:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 14:20:34 [profile] [system.db.CDbCommand.query] end:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 14:20:34 [trace] [system.CModule] Loading "mail" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (143)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 14:20:34 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:20:34 [trace] [system.web.filters.CFilterChain] Running filter SiteController.filteraccessControl()
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:20:34 [trace] [system.CModule] Loading "user" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:20:34 [trace] [system.CModule] Loading "session" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:20:34 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:20:36 [trace] [system.CModule] Loading "log" application component
+in /var/www/html/sdemo/index.php (24)
+2017/11/13 14:20:36 [trace] [system.CModule] Loading "request" application component
+in /var/www/html/sdemo/protected/extensions/yii-debug-toolbar/YiiDebugToolbarRoute.php (123)
+in /var/www/html/sdemo/index.php (24)
+2017/11/13 14:20:36 [trace] [system.CModule] Loading "setting" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 14:20:36 [trace] [system.CModule] Loading "db" application component
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 14:20:36 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 14:20:36 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM gas_settings WHERE 1
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (209)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 14:20:36 [profile] [system.db.CDbCommand.query] begin:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 14:20:36 [profile] [system.db.CDbCommand.query] end:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 14:20:36 [trace] [system.CModule] Loading "mail" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (143)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 14:20:36 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:20:36 [trace] [system.web.filters.CFilterChain] Running filter SiteController.filteraccessControl()
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:20:36 [trace] [system.CModule] Loading "user" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:20:36 [trace] [system.CModule] Loading "session" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:20:36 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:20:41 [trace] [system.CModule] Loading "log" application component
+in /var/www/html/sdemo/index.php (24)
+2017/11/13 14:20:41 [trace] [system.CModule] Loading "request" application component
+in /var/www/html/sdemo/protected/extensions/yii-debug-toolbar/YiiDebugToolbarRoute.php (123)
+in /var/www/html/sdemo/index.php (24)
+2017/11/13 14:20:41 [trace] [system.CModule] Loading "setting" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 14:20:41 [trace] [system.CModule] Loading "db" application component
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 14:20:41 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 14:20:41 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM gas_settings WHERE 1
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (209)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 14:20:41 [profile] [system.db.CDbCommand.query] begin:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 14:20:41 [profile] [system.db.CDbCommand.query] end:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 14:20:41 [trace] [system.CModule] Loading "mail" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (143)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 14:20:41 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:20:41 [trace] [system.web.filters.CFilterChain] Running filter SiteController.filteraccessControl()
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:20:41 [trace] [system.CModule] Loading "user" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:20:41 [trace] [system.CModule] Loading "session" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:20:41 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:23:38 [trace] [system.CModule] Loading "log" application component
+in /var/www/html/sdemo/index.php (24)
+2017/11/13 14:23:38 [trace] [system.CModule] Loading "request" application component
+in /var/www/html/sdemo/protected/extensions/yii-debug-toolbar/YiiDebugToolbarRoute.php (123)
+in /var/www/html/sdemo/index.php (24)
+2017/11/13 14:23:38 [trace] [system.CModule] Loading "setting" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 14:23:38 [trace] [system.CModule] Loading "db" application component
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 14:23:38 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 14:23:38 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM gas_settings WHERE 1
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (209)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 14:23:38 [profile] [system.db.CDbCommand.query] begin:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 14:23:38 [profile] [system.db.CDbCommand.query] end:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 14:23:38 [trace] [system.CModule] Loading "mail" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (143)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 14:23:38 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:23:38 [trace] [system.web.filters.CFilterChain] Running filter SiteController.filteraccessControl()
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:23:38 [trace] [system.CModule] Loading "user" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:23:38 [trace] [system.CModule] Loading "session" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:23:38 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:23:40 [trace] [system.CModule] Loading "log" application component
+in /var/www/html/sdemo/index.php (24)
+2017/11/13 14:23:40 [trace] [system.CModule] Loading "request" application component
+in /var/www/html/sdemo/protected/extensions/yii-debug-toolbar/YiiDebugToolbarRoute.php (123)
+in /var/www/html/sdemo/index.php (24)
+2017/11/13 14:23:40 [trace] [system.CModule] Loading "setting" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 14:23:40 [trace] [system.CModule] Loading "db" application component
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 14:23:40 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 14:23:40 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM gas_settings WHERE 1
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (209)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 14:23:40 [profile] [system.db.CDbCommand.query] begin:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 14:23:40 [profile] [system.db.CDbCommand.query] end:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 14:23:40 [trace] [system.CModule] Loading "mail" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (143)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 14:23:40 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:23:40 [trace] [system.web.filters.CFilterChain] Running filter SiteController.filteraccessControl()
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:23:40 [trace] [system.CModule] Loading "user" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:23:40 [trace] [system.CModule] Loading "session" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:23:40 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:23:41 [trace] [system.CModule] Loading "log" application component
+in /var/www/html/sdemo/index.php (24)
+2017/11/13 14:23:41 [trace] [system.CModule] Loading "request" application component
+in /var/www/html/sdemo/protected/extensions/yii-debug-toolbar/YiiDebugToolbarRoute.php (123)
+in /var/www/html/sdemo/index.php (24)
+2017/11/13 14:23:41 [trace] [system.CModule] Loading "setting" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 14:23:41 [trace] [system.CModule] Loading "db" application component
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 14:23:41 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 14:23:41 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM gas_settings WHERE 1
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (209)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 14:23:41 [profile] [system.db.CDbCommand.query] begin:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 14:23:41 [profile] [system.db.CDbCommand.query] end:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 14:23:41 [trace] [system.CModule] Loading "mail" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (143)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 14:23:41 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:23:41 [trace] [system.web.filters.CFilterChain] Running filter SiteController.filteraccessControl()
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:23:41 [trace] [system.CModule] Loading "user" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:23:41 [trace] [system.CModule] Loading "session" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:23:41 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:23:43 [trace] [system.CModule] Loading "log" application component
+in /var/www/html/sdemo/index.php (24)
+2017/11/13 14:23:43 [trace] [system.CModule] Loading "request" application component
+in /var/www/html/sdemo/protected/extensions/yii-debug-toolbar/YiiDebugToolbarRoute.php (123)
+in /var/www/html/sdemo/index.php (24)
+2017/11/13 14:23:43 [trace] [system.CModule] Loading "setting" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 14:23:43 [trace] [system.CModule] Loading "db" application component
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 14:23:43 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 14:23:43 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM gas_settings WHERE 1
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (209)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 14:23:43 [profile] [system.db.CDbCommand.query] begin:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 14:23:43 [profile] [system.db.CDbCommand.query] end:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 14:23:43 [trace] [system.CModule] Loading "mail" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (143)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 14:23:43 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:23:43 [trace] [system.web.filters.CFilterChain] Running filter SiteController.filteraccessControl()
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:23:43 [trace] [system.CModule] Loading "user" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:23:43 [trace] [system.CModule] Loading "session" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:23:43 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:24:28 [trace] [system.CModule] Loading "log" application component
+in /var/www/html/sdemo/index.php (24)
+2017/11/13 14:24:28 [trace] [system.CModule] Loading "request" application component
+in /var/www/html/sdemo/protected/extensions/yii-debug-toolbar/YiiDebugToolbarRoute.php (123)
+in /var/www/html/sdemo/index.php (24)
+2017/11/13 14:24:28 [trace] [system.CModule] Loading "setting" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 14:24:28 [trace] [system.CModule] Loading "db" application component
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 14:24:28 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 14:24:28 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM gas_settings WHERE 1
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (209)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 14:24:28 [profile] [system.db.CDbCommand.query] begin:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 14:24:28 [profile] [system.db.CDbCommand.query] end:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 14:24:28 [trace] [system.CModule] Loading "mail" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (143)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 14:24:28 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:24:28 [trace] [system.web.filters.CFilterChain] Running filter SiteController.filteraccessControl()
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:24:28 [trace] [system.CModule] Loading "user" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:24:28 [trace] [system.CModule] Loading "session" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:24:28 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:26:41 [trace] [system.CModule] Loading "log" application component
+in /var/www/html/sdemo/index.php (24)
+2017/11/13 14:26:41 [trace] [system.CModule] Loading "request" application component
+in /var/www/html/sdemo/protected/extensions/yii-debug-toolbar/YiiDebugToolbarRoute.php (123)
+in /var/www/html/sdemo/index.php (24)
+2017/11/13 14:26:41 [trace] [system.CModule] Loading "setting" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 14:26:41 [trace] [system.CModule] Loading "db" application component
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 14:26:41 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 14:26:41 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM gas_settings WHERE 1
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (209)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 14:26:41 [profile] [system.db.CDbCommand.query] begin:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 14:26:41 [profile] [system.db.CDbCommand.query] end:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 14:26:41 [trace] [system.CModule] Loading "mail" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (143)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 14:26:41 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:26:41 [trace] [system.web.filters.CFilterChain] Running filter SiteController.filteraccessControl()
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:26:41 [trace] [system.CModule] Loading "user" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:26:41 [trace] [system.CModule] Loading "session" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:26:41 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:30:02 [trace] [system.CModule] Loading "log" application component
+in /var/www/html/sdemo/index.php (24)
+2017/11/13 14:30:02 [trace] [system.CModule] Loading "request" application component
+in /var/www/html/sdemo/protected/extensions/yii-debug-toolbar/YiiDebugToolbarRoute.php (123)
+in /var/www/html/sdemo/index.php (24)
+2017/11/13 14:30:02 [trace] [system.CModule] Loading "setting" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 14:30:02 [trace] [system.CModule] Loading "db" application component
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 14:30:02 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 14:30:02 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM gas_settings WHERE 1
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (209)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 14:30:02 [profile] [system.db.CDbCommand.query] begin:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 14:30:02 [profile] [system.db.CDbCommand.query] end:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 14:30:02 [trace] [system.CModule] Loading "mail" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (143)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 14:30:02 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:30:02 [trace] [system.web.filters.CFilterChain] Running filter SiteController.filteraccessControl()
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:30:02 [trace] [system.CModule] Loading "user" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:30:02 [trace] [system.CModule] Loading "session" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:30:02 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:30:03 [trace] [system.CModule] Loading "log" application component
+in /var/www/html/sdemo/index.php (24)
+2017/11/13 14:30:03 [trace] [system.CModule] Loading "request" application component
+in /var/www/html/sdemo/protected/extensions/yii-debug-toolbar/YiiDebugToolbarRoute.php (123)
+in /var/www/html/sdemo/index.php (24)
+2017/11/13 14:30:03 [trace] [system.CModule] Loading "setting" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 14:30:03 [trace] [system.CModule] Loading "db" application component
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 14:30:03 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 14:30:03 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM gas_settings WHERE 1
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (209)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 14:30:03 [profile] [system.db.CDbCommand.query] begin:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 14:30:03 [profile] [system.db.CDbCommand.query] end:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 14:30:03 [trace] [system.CModule] Loading "mail" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (143)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 14:30:03 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:30:03 [trace] [system.web.filters.CFilterChain] Running filter SiteController.filteraccessControl()
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:30:03 [trace] [system.CModule] Loading "user" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:30:03 [trace] [system.CModule] Loading "session" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:30:03 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:30:04 [trace] [system.CModule] Loading "log" application component
+in /var/www/html/sdemo/index.php (24)
+2017/11/13 14:30:04 [trace] [system.CModule] Loading "request" application component
+in /var/www/html/sdemo/protected/extensions/yii-debug-toolbar/YiiDebugToolbarRoute.php (123)
+in /var/www/html/sdemo/index.php (24)
+2017/11/13 14:30:04 [trace] [system.CModule] Loading "setting" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 14:30:04 [trace] [system.CModule] Loading "db" application component
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 14:30:04 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 14:30:04 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM gas_settings WHERE 1
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (209)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 14:30:04 [profile] [system.db.CDbCommand.query] begin:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 14:30:04 [profile] [system.db.CDbCommand.query] end:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 14:30:04 [trace] [system.CModule] Loading "mail" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (143)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 14:30:04 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:30:04 [trace] [system.web.filters.CFilterChain] Running filter SiteController.filteraccessControl()
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:30:04 [trace] [system.CModule] Loading "user" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:30:04 [trace] [system.CModule] Loading "session" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:30:04 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:30:07 [trace] [system.CModule] Loading "log" application component
+in /var/www/html/sdemo/index.php (24)
+2017/11/13 14:30:07 [trace] [system.CModule] Loading "request" application component
+in /var/www/html/sdemo/protected/extensions/yii-debug-toolbar/YiiDebugToolbarRoute.php (123)
+in /var/www/html/sdemo/index.php (24)
+2017/11/13 14:30:07 [trace] [system.CModule] Loading "setting" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 14:30:07 [trace] [system.CModule] Loading "db" application component
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 14:30:07 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 14:30:07 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM gas_settings WHERE 1
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (209)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 14:30:07 [profile] [system.db.CDbCommand.query] begin:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 14:30:07 [profile] [system.db.CDbCommand.query] end:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 14:30:07 [trace] [system.CModule] Loading "mail" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (143)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 14:30:07 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:30:07 [trace] [system.web.filters.CFilterChain] Running filter SiteController.filteraccessControl()
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:30:07 [trace] [system.CModule] Loading "user" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:30:07 [trace] [system.CModule] Loading "session" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:30:07 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:30:17 [trace] [system.CModule] Loading "log" application component
+in /var/www/html/sdemo/index.php (24)
+2017/11/13 14:30:17 [trace] [system.CModule] Loading "request" application component
+in /var/www/html/sdemo/protected/extensions/yii-debug-toolbar/YiiDebugToolbarRoute.php (123)
+in /var/www/html/sdemo/index.php (24)
+2017/11/13 14:30:17 [trace] [system.CModule] Loading "setting" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 14:30:17 [trace] [system.CModule] Loading "db" application component
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 14:30:17 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 14:30:17 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM gas_settings WHERE 1
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (209)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 14:30:17 [profile] [system.db.CDbCommand.query] begin:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 14:30:17 [profile] [system.db.CDbCommand.query] end:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 14:30:17 [trace] [system.CModule] Loading "mail" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (143)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 14:30:17 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:30:17 [trace] [system.web.filters.CFilterChain] Running filter SiteController.filteraccessControl()
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:30:17 [trace] [system.CModule] Loading "user" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:30:17 [trace] [system.CModule] Loading "session" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:30:17 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:32:30 [trace] [system.CModule] Loading "log" application component
+in /var/www/html/sdemo/index.php (24)
+2017/11/13 14:32:30 [trace] [system.CModule] Loading "request" application component
+in /var/www/html/sdemo/protected/extensions/yii-debug-toolbar/YiiDebugToolbarRoute.php (123)
+in /var/www/html/sdemo/index.php (24)
+2017/11/13 14:32:30 [trace] [system.CModule] Loading "setting" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 14:32:30 [trace] [system.CModule] Loading "db" application component
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 14:32:30 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 14:32:30 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM gas_settings WHERE 1
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (209)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 14:32:30 [profile] [system.db.CDbCommand.query] begin:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 14:32:30 [profile] [system.db.CDbCommand.query] end:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 14:32:30 [trace] [system.CModule] Loading "mail" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (143)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 14:32:30 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:32:30 [trace] [system.web.filters.CFilterChain] Running filter SiteController.filteraccessControl()
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:32:30 [trace] [system.CModule] Loading "user" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:32:30 [trace] [system.CModule] Loading "session" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:32:30 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:34:40 [trace] [system.CModule] Loading "log" application component
+in /var/www/html/sdemo/index.php (24)
+2017/11/13 14:34:40 [trace] [system.CModule] Loading "request" application component
+in /var/www/html/sdemo/protected/extensions/yii-debug-toolbar/YiiDebugToolbarRoute.php (123)
+in /var/www/html/sdemo/index.php (24)
+2017/11/13 14:34:40 [trace] [system.CModule] Loading "setting" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 14:34:40 [trace] [system.CModule] Loading "db" application component
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 14:34:40 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 14:34:40 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM gas_settings WHERE 1
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (209)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 14:34:40 [profile] [system.db.CDbCommand.query] begin:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 14:34:40 [profile] [system.db.CDbCommand.query] end:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 14:34:40 [trace] [system.CModule] Loading "mail" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (143)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 14:34:40 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:34:40 [trace] [system.web.filters.CFilterChain] Running filter SiteController.filteraccessControl()
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:34:40 [trace] [system.CModule] Loading "user" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:34:40 [trace] [system.CModule] Loading "session" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:34:40 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:44:01 [trace] [system.CModule] Loading "log" application component
+in /var/www/html/sdemo/index.php (24)
+2017/11/13 14:44:01 [trace] [system.CModule] Loading "request" application component
+in /var/www/html/sdemo/protected/extensions/yii-debug-toolbar/YiiDebugToolbarRoute.php (123)
+in /var/www/html/sdemo/index.php (24)
+2017/11/13 14:44:01 [trace] [system.CModule] Loading "setting" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 14:44:01 [trace] [system.CModule] Loading "db" application component
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 14:44:01 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 14:44:01 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM gas_settings WHERE 1
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (209)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 14:44:01 [profile] [system.db.CDbCommand.query] begin:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 14:44:01 [profile] [system.db.CDbCommand.query] end:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 14:44:01 [trace] [system.CModule] Loading "mail" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (143)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 14:44:01 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:44:01 [trace] [system.web.filters.CFilterChain] Running filter SiteController.filteraccessControl()
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:44:01 [trace] [system.CModule] Loading "user" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:44:01 [trace] [system.CModule] Loading "session" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:44:01 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:44:02 [trace] [system.CModule] Loading "log" application component
+in /var/www/html/sdemo/index.php (24)
+2017/11/13 14:44:02 [trace] [system.CModule] Loading "request" application component
+in /var/www/html/sdemo/protected/extensions/yii-debug-toolbar/YiiDebugToolbarRoute.php (123)
+in /var/www/html/sdemo/index.php (24)
+2017/11/13 14:44:02 [trace] [system.CModule] Loading "setting" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 14:44:02 [trace] [system.CModule] Loading "db" application component
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 14:44:02 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (207)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 14:44:02 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM gas_settings WHERE 1
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (209)
+in /var/www/html/sdemo/protected/extensions/MyConfig/MyConfig.php (41)
+in /var/www/html/sdemo/protected/models/SettingForm.php (142)
+2017/11/13 14:44:02 [profile] [system.db.CDbCommand.query] begin:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 14:44:02 [profile] [system.db.CDbCommand.query] end:system.db.CDbCommand.query(SELECT * FROM gas_settings WHERE 1)
+2017/11/13 14:44:02 [trace] [system.CModule] Loading "mail" application component
+in /var/www/html/sdemo/protected/models/SettingForm.php (143)
+in /var/www/html/sdemo/index.php (25)
+2017/11/13 14:44:02 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:44:02 [trace] [system.web.filters.CFilterChain] Running filter SiteController.filteraccessControl()
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:44:02 [trace] [system.CModule] Loading "user" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:44:02 [trace] [system.CModule] Loading "session" application component
+in /var/www/html/sdemo/index.php (26)
+2017/11/13 14:44:02 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/sdemo/index.php (26)
